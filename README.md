@@ -5,10 +5,11 @@
 # 🔐 Awesome User Identity & Access Administration (IAM & IGA) 🌟
 
 <p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-User-Identity-Access-Administration/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-User-Identity-Access-Administration?style=social&color=white" alt="GitHub Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-User-Identity-Access-Administration/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-User-Identity-Access-Administration?style=social&color=white" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-User-Identity-Access-Administration/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square" alt="License: CC0-1.0"/></a>
-  <a href="https://github.com/ishandutta2007"><img alt="Follow @ishandutta2007" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=social" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 > 🛡️ **A curated directory of top User Identity & Access Management (IAM), Identity Governance & Administration (IGA), Single Sign-On (SSO), Multi-Factor Authentication (MFA), Privileged Access Management (PAM), and Customer Identity (CIAM) platforms.**  
@@ -46,6 +47,8 @@
   - [22. Hanzo IAM](#22-hanzo-iam-)
 - [📊 Feature & Deployment Matrix at a Glance](#-feature--deployment-matrix-at-a-glance)
 - [🤝 Contributing Guidelines](#-contributing-guidelines)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📈 Star History](#-star-history)
 - [📜 License](#-license)
 
 ---
@@ -289,6 +292,23 @@ Contributions, suggestions, and corrections are warmly welcomed! To contribute a
    - Tech stack & license details
    - Clear starting tier pricing and specific free trial / free tier limits
 4. 🚀 **Submit a Pull Request** with a concise description of your changes.
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you so much for exploring and using **Awesome User Identity & Access Administration**! 🙌  
+If this curation has been helpful to your team, research, or projects, please consider supporting the project:
+
+- ⭐ **Star** this repository on GitHub to help boost visibility!
+- 🍴 **Fork** and contribute tools, corrections, or benchmarks!
+- 📢 **Share** this list with fellow developers, security architects, and devops teams!
+- ☕ **Buy me a coffee / Sponsor**: If you'd like to support ongoing maintenance and new tools discovery, visit the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007). Your support is greatly appreciated!
+
+---
+
+##  Star History
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-User-Identity-Access-Administration&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-User-Identity-Access-Administration&type=date&legend=top-left)
 
 ---
 

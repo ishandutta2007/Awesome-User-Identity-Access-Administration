@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-User-Identity-Access-Administration/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-User-Identity-Access-Administration?style=social&color=white" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-User-Identity-Access-Administration/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-User-Identity-Access-Administration?style=social&color=white" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-User-Identity-Access-Administration/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-User-Identity-Access-Administration?style=social&color=white" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-User-Identity-Access-Administration/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square" alt="License: CC0-1.0"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -83,154 +83,154 @@ A comprehensive benchmark of leading commercial cloud-hosted User Identity and A
 
 Explore top-rated, self-hostable open-source identity and access administration platforms, sorted strictly by their GitHub stargazer counts in descending order.
 
-### 1. [Keycloak](https://github.com/keycloak/keycloak) [![GitHub Stars](https://img.shields.io/github/stars/keycloak/keycloak?style=social&color=white)](https://github.com/keycloak/keycloak/stargazers)
+### 1. [Keycloak](https://github.com/keycloak/keycloak) [![GitHub_Stars](https://img.shields.io/github/stars/keycloak/keycloak?style=social&color=white)](https://github.com/keycloak/keycloak/stargazers)
 * **GitHub Repository:** [`keycloak/keycloak`](https://github.com/keycloak/keycloak)  
 * **Tech Stack:** Java (Quarkus) | **License:** Apache-2.0  
 * **Overview:** The undisputed gold standard of open-source Identity and Access Management maintained under Red Hat and the Cloud Native Computing Foundation ecosystem. Provides out-of-the-box OpenID Connect (OIDC), OAuth 2.0, SAML 2.0, Kerberos, and LDAP/AD user federation.  
 * **Key Features:** Fine-grained authorization policies (RBAC/ABAC), centralized web management console, identity brokering, social logins, two-factor authentication, and turnkey clustering.  
 * **Best For:** Enterprise organizations requiring a battle-tested, fully compliant identity server with deep community support and extensive enterprise integrations.
 
-### 2. [Authelia](https://github.com/authelia/authelia) [![GitHub Stars](https://img.shields.io/github/stars/authelia/authelia?style=social&color=white)](https://github.com/authelia/authelia/stargazers)
+### 2. [Authelia](https://github.com/authelia/authelia) [![GitHub_Stars](https://img.shields.io/github/stars/authelia/authelia?style=social&color=white)](https://github.com/authelia/authelia/stargazers)
 * **GitHub Repository:** [`authelia/authelia`](https://github.com/authelia/authelia)  
 * **Tech Stack:** Go | **License:** Apache-2.0  
 * **Overview:** A lightweight, high-performance authentication and authorization companion server designed to guard reverse proxies like Traefik, NGINX, Caddy, HAProxy, and Envoy with modern multi-factor authentication.  
 * **Key Features:** OpenID Connect Certified™ Provider, FIDO2 WebAuthn / Passkeys support, TOTP authenticator app support, Duo push notifications, brute-force protection, and post-quantum cryptography readiness.  
 * **Best For:** DevOps teams and homelab administrators seeking a streamlined, low-footprint single sign-on portal to protect private web applications and microservices behind reverse proxies.
 
-### 3. [Authentik](https://github.com/goauthentik/authentik) [![GitHub Stars](https://img.shields.io/github/stars/goauthentik/authentik?style=social&color=white)](https://github.com/goauthentik/authentik/stargazers)
+### 3. [Authentik](https://github.com/goauthentik/authentik) [![GitHub_Stars](https://img.shields.io/github/stars/goauthentik/authentik?style=social&color=white)](https://github.com/goauthentik/authentik/stargazers)
 * **GitHub Repository:** [`goauthentik/authentik`](https://github.com/goauthentik/authentik)  
 * **Tech Stack:** Python (Django) / Go | **License:** MIT / Enterprise Dual  
 * **Overview:** A modern, versatile open-source identity provider emphasizing extreme workflow flexibility through customizable stage-and-policy pipelines.  
 * **Key Features:** Visual flow editor for signup, enrollment, and recovery; out-of-the-box SAML, OIDC, OAuth2, and LDAP outpost proxies; forward auth proxy; user impersonation for support; and granular RBAC.  
 * **Best For:** Modern infrastructure teams wanting total programmatic control over complex login, MFA, and onboarding user flows without writing boilerplate code.
 
-### 4. [Teleport](https://github.com/gravitational/teleport) [![GitHub Stars](https://img.shields.io/github/stars/gravitational/teleport?style=social&color=white)](https://github.com/gravitational/teleport/stargazers)
+### 4. [Teleport](https://github.com/gravitational/teleport) [![GitHub_Stars](https://img.shields.io/github/stars/gravitational/teleport?style=social&color=white)](https://github.com/gravitational/teleport/stargazers)
 * **GitHub Repository:** [`gravitational/teleport`](https://github.com/gravitational/teleport)  
 * **Tech Stack:** Go | **License:** AGPL-3.0 / Commercial  
 * **Overview:** An identity-native infrastructure access management platform that replaces static credentials, VPNs, and SSH keys with short-lived cryptographic certificates and role-based access control.  
 * **Key Features:** Unified Zero Trust access gateway for SSH servers, Kubernetes clusters, databases, Windows desktops, and internal web apps; live session recording, structured audit events, and Just-in-Time (JIT) access requests.  
 * **Best For:** Infrastructure, SRE, and security teams needing privileged access management (PAM) and session auditing for multi-cloud production infrastructure.
 
-### 5. [Ory Hydra](https://github.com/ory/hydra) [![GitHub Stars](https://img.shields.io/github/stars/ory/hydra?style=social&color=white)](https://github.com/ory/hydra/stargazers)
+### 5. [Ory Hydra](https://github.com/ory/hydra) [![GitHub_Stars](https://img.shields.io/github/stars/ory/hydra?style=social&color=white)](https://github.com/ory/hydra/stargazers)
 * **GitHub Repository:** [`ory/hydra`](https://github.com/ory/hydra)  
 * **Tech Stack:** Go | **License:** Apache-2.0  
 * **Overview:** An internet-scale, headless OpenID Connect (OIDC) and OAuth 2.1 authorization server. Unlike all-in-one IAMs, Hydra does not force its own user database or UI onto your applications—it connects to your existing user accounts via secure JSON APIs.  
 * **Key Features:** OpenID Foundation Certified™, sub-millisecond response latency, fully headless architecture allowing completely custom user experiences, hardware security module (HSM) support, and infinite horizontal scalability.  
 * **Best For:** High-scale engineering teams building custom customer-facing applications who need standards-compliant OAuth 2.1 token issuance without adopting a monolithic UI.
 
-### 6. [ZITADEL](https://github.com/zitadel/zitadel) [![GitHub Stars](https://img.shields.io/github/stars/zitadel/zitadel?style=social&color=white)](https://github.com/zitadel/zitadel/stargazers)
+### 6. [ZITADEL](https://github.com/zitadel/zitadel) [![GitHub_Stars](https://img.shields.io/github/stars/zitadel/zitadel?style=social&color=white)](https://github.com/zitadel/zitadel/stargazers)
 * **GitHub Repository:** [`zitadel/zitadel`](https://github.com/zitadel/zitadel)  
 * **Tech Stack:** Go | **License:** Apache-2.0  
 * **Overview:** A cloud-native, multi-tenant identity and access management system built from the ground up for modern B2B and SaaS applications. Built on event sourcing for complete auditability.  
 * **Key Features:** Turnkey self-service B2B organization portals, domain whitelisting, custom branding per tenant, passwordless WebAuthn/Passkeys, OIDC/OAuth 2.1, and fine-grained authorization actions.  
 * **Best For:** B2B SaaS software builders looking for an open-source alternative to Auth0 or WorkOS with first-class multi-tenancy and organization delegation.
 
-### 7. [SuperTokens](https://github.com/supertokens/supertokens-core) [![GitHub Stars](https://img.shields.io/github/stars/supertokens/supertokens-core?style=social&color=white)](https://github.com/supertokens/supertokens-core/stargazers)
+### 7. [SuperTokens](https://github.com/supertokens/supertokens-core) [![GitHub_Stars](https://img.shields.io/github/stars/supertokens/supertokens-core?style=social&color=white)](https://github.com/supertokens/supertokens-core/stargazers)
 * **GitHub Repository:** [`supertokens/supertokens-core`](https://github.com/supertokens/supertokens-core)  
 * **Tech Stack:** Java / Node.js / React | **License:** Apache-2.0  
 * **Overview:** An open-source, modular customer identity and access management (CIAM) solution crafted specifically for developers as a developer-friendly alternative to Auth0 and Firebase Auth.  
 * **Key Features:** Pre-built customizable UI components for React/Vue/Angular, session token rotation with anti-CSRF protection, social SSO, passwordless magic links/OTP, enterprise SAML/ADFS integration, and role-based permissions.  
 * **Best For:** Product developers seeking rapid authentication integration with modern pre-built UI components and end-to-end SDKs.
 
-### 8. [Logto](https://github.com/logto-io/logto) [![GitHub Stars](https://img.shields.io/github/stars/logto-io/logto?style=social&color=white)](https://github.com/logto-io/logto/stargazers)
+### 8. [Logto](https://github.com/logto-io/logto) [![GitHub_Stars](https://img.shields.io/github/stars/logto-io/logto?style=social&color=white)](https://github.com/logto-io/logto/stargazers)
 * **GitHub Repository:** [`logto-io/logto`](https://github.com/logto-io/logto)  
 * **Tech Stack:** TypeScript / Node.js | **License:** MPL-2.0  
 * **Overview:** A beautifully designed, developer-centric authentication and authorization infrastructure for SaaS, web, and mobile apps, built natively on OpenID Connect and OAuth 2.1.  
 * **Key Features:** Sleek out-of-the-box sign-in experience, enterprise SSO (SAML/OIDC), multi-tenant organization support, Machine-to-Machine (M2M) API protection, Webhooks, and modern Admin Console.  
 * **Best For:** Modern web applications, startup teams, and AI platforms looking for quick developer onboarding and polished UI defaults.
 
-### 9. [Casdoor](https://github.com/casdoor/casdoor) [![GitHub Stars](https://img.shields.io/github/stars/casdoor/casdoor?style=social&color=white)](https://github.com/casdoor/casdoor/stargazers)
+### 9. [Casdoor](https://github.com/casdoor/casdoor) [![GitHub_Stars](https://img.shields.io/github/stars/casdoor/casdoor?style=social&color=white)](https://github.com/casdoor/casdoor/stargazers)
 * **GitHub Repository:** [`casdoor/casdoor`](https://github.com/casdoor/casdoor)  
 * **Tech Stack:** Go / React | **License:** Apache-2.0  
 * **Overview:** A feature-packed, single-binary IAM and SSO platform with an intuitive web admin console, created by the authors of Casbin.  
 * **Key Features:** 70+ built-in OAuth/social identity providers, native Casbin-powered ACL/RBAC/ABAC authorization, SCIM 2.0 user sync, WebAuthn/passkeys, TOTP MFA, multi-tenancy, and low-resource deployment.  
 * **Best For:** Teams desiring a single self-contained binary deployment that provides both an identity provider and a rich access governance UI without external complexity.
 
-### 10. [Ory Kratos](https://github.com/ory/kratos) [![GitHub Stars](https://img.shields.io/github/stars/ory/kratos?style=social&color=white)](https://github.com/ory/kratos/stargazers)
+### 10. [Ory Kratos](https://github.com/ory/kratos) [![GitHub_Stars](https://img.shields.io/github/stars/ory/kratos?style=social&color=white)](https://github.com/ory/kratos/stargazers)
 * **GitHub Repository:** [`ory/kratos`](https://github.com/ory/kratos)  
 * **Tech Stack:** Go | **License:** Apache-2.0  
 * **Overview:** A cloud-native, headless user identity and profile management engine built for web-scale deployment. Handles self-service user registration, login, profile updates, account recovery, and MFA via clean REST/JSON APIs.  
 * **Key Features:** Zero default frontend (bring your own UI in any framework), schema-driven identity models with JSON Schema, passwordless WebAuthn, TOTP, SMS/Email OTP, and native integration with Ory Keto and Hydra.  
 * **Best For:** Microservice and API-first architectures where security engineers want strict headless separation between identity logic and frontend presentation.
 
-### 11. [Open Policy Agent (OPA)](https://github.com/open-policy-agent/opa) [![GitHub Stars](https://img.shields.io/github/stars/open-policy-agent/opa?style=social&color=white)](https://github.com/open-policy-agent/opa/stargazers)
+### 11. [Open Policy Agent (OPA)](https://github.com/open-policy-agent/opa) [![GitHub_Stars](https://img.shields.io/github/stars/open-policy-agent/opa?style=social&color=white)](https://github.com/open-policy-agent/opa/stargazers)
 * **GitHub Repository:** [`open-policy-agent/opa`](https://github.com/open-policy-agent/opa)  
 * **Tech Stack:** Go | **License:** Apache-2.0  
 * **Overview:** A CNCF Graduated, general-purpose policy engine that unifies access policy enforcement across cloud-native environments, microservices, Kubernetes admission, and API gateways.  
 * **Key Features:** Declarative Rego query language, high-throughput in-memory evaluation, policy decision logging, and integration libraries across Envoy, Istio, Docker, and Kubernetes.  
 * **Best For:** Organizations seeking unified, declarative Policy-as-Code for authorization, resource quotas, and compliance enforcement across hybrid multi-cloud systems.
 
-### 12. [Dex IDP](https://github.com/dexidp/dex) [![GitHub Stars](https://img.shields.io/github/stars/dexidp/dex?style=social&color=white)](https://github.com/dexidp/dex/stargazers)
+### 12. [Dex IDP](https://github.com/dexidp/dex) [![GitHub_Stars](https://img.shields.io/github/stars/dexidp/dex?style=social&color=white)](https://github.com/dexidp/dex/stargazers)
 * **GitHub Repository:** [`dexidp/dex`](https://github.com/dexidp/dex)  
 * **Tech Stack:** Go | **License:** Apache-2.0  
 * **Overview:** A federated OpenID Connect identity provider that acts as a broker and portal between downstream applications and upstream identity systems.  
 * **Key Features:** Pluggable connector architecture supporting LDAP, SAML 2.0, GitHub, Google, GitLab, Bitbucket, and OAuth2; standard OIDC token claims translation; and lightweight Kubernetes deployment.  
 * **Best For:** Kubernetes clusters and internal enterprise tools requiring simple federation to legacy corporate directories (LDAP/Active Directory) via modern OIDC tokens.
 
-### 13. [Kanidm](https://github.com/kanidm/kanidm) [![GitHub Stars](https://img.shields.io/github/stars/kanidm/kanidm?style=social&color=white)](https://github.com/kanidm/kanidm/stargazers)
+### 13. [Kanidm](https://github.com/kanidm/kanidm) [![GitHub_Stars](https://img.shields.io/github/stars/kanidm/kanidm?style=social&color=white)](https://github.com/kanidm/kanidm/stargazers)
 * **GitHub Repository:** [`kanidm/kanidm`](https://github.com/kanidm/kanidm)  
 * **Tech Stack:** Rust | **License:** MPL-2.0  
 * **Overview:** A fast, memory-safe identity management platform and directory service written in Rust. Designed as a modern, hardened replacement for 389-ds, OpenLDAP, and Active Directory.  
 * **Key Features:** Native LDAP and OIDC/OAuth 2.1 protocol support, built-in RADIUS server, memory-safe execution, WebAuthn/Passkey enforcement, fine-grained access control, and Unix client tools (`nsswitch`/`pam`).  
 * **Best For:** System administrators looking for an ultra-fast, security-hardened, memory-safe modern directory service that easily serves both legacy Linux PAM environments and modern web applications.
 
-### 14. [OPAL (Open Policy Administration Layer)](https://github.com/permitio/opal) [![GitHub Stars](https://img.shields.io/github/stars/permitio/opal?style=social&color=white)](https://github.com/permitio/opal/stargazers)
+### 14. [OPAL (Open Policy Administration Layer)](https://github.com/permitio/opal) [![GitHub_Stars](https://img.shields.io/github/stars/permitio/opal?style=social&color=white)](https://github.com/permitio/opal/stargazers)
 * **GitHub Repository:** [`permitio/opal`](https://github.com/permitio/opal)  
 * **Tech Stack:** Python | **License:** Apache-2.0  
 * **Overview:** An administration layer that manages authorization policy and data in real-time, bringing GitOps and live event-driven data streaming to policy engines like OPA and Cedar.  
 * **Key Features:** Real-time data pub/sub engine, automatic Git repository tracking for policy updates, edge client caching, and webhook trigger integrations.  
 * **Best For:** Teams running Open Policy Agent (OPA) that need to keep authorization policies and tenant application state synchronized in real-time across distributed edge microservices.
 
-### 15. [Cerbos](https://github.com/cerbos/cerbos) [![GitHub Stars](https://img.shields.io/github/stars/cerbos/cerbos) ](https://github.com/cerbos/cerbos/stargazers)
+### 15. [Cerbos](https://github.com/cerbos/cerbos) [![GitHub_Stars](https://img.shields.io/github/stars/cerbos/cerbos) ](https://github.com/cerbos/cerbos/stargazers)
 * **GitHub Repository:** [`cerbos/cerbos`](https://github.com/cerbos/cerbos)  
 * **Tech Stack:** Go | **License:** Apache-2.0  
 * **Overview:** A lightweight, decoupled authorization service that allows developers to define context-aware role and attribute-based permissions (RBAC/ABAC) in human-readable YAML policies.  
 * **Key Features:** Contextual authorization logic via YAML policies, sub-millisecond evaluation, WebAssembly (Wasm) compilation for in-browser client checking, and SDKs for Python, Node, Go, Java, and .NET.  
 * **Best For:** Application engineering teams wanting clean, maintainable authorization policies decoupled from core business logic without learning complex custom DSLs.
 
-### 16. [HashiCorp Boundary](https://github.com/hashicorp/boundary) [![GitHub Stars](https://img.shields.io/github/stars/hashicorp/boundary?style=social&color=white)](https://github.com/hashicorp/boundary/stargazers)
+### 16. [HashiCorp Boundary](https://github.com/hashicorp/boundary) [![GitHub_Stars](https://img.shields.io/github/stars/hashicorp/boundary?style=social&color=white)](https://github.com/hashicorp/boundary/stargazers)
 * **GitHub Repository:** [`hashicorp/boundary`](https://github.com/hashicorp/boundary)  
 * **Tech Stack:** Go | **License:** BSL 1.1  
 * **Overview:** An identity-based access management system providing secure, least-privilege remote access to dynamic hosts, databases, and private cloud services without managing credentials or exposing networks.  
 * **Key Features:** Identity-driven session authorization, automatic credential brokering (via HashiCorp Vault), dynamic target discovery (AWS, Azure, GCP, Kubernetes), and seamless desktop/CLI access clients.  
 * **Best For:** Cloud infrastructure teams desiring automated, passwordless remote access controls integrated into HashiCorp Vault and Terraform ecosystems.
 
-### 17. [FreeIPA](https://github.com/freeipa/freeipa) [![GitHub Stars](https://img.shields.io/github/stars/freeipa/freeipa?style=social&color=white)](https://github.com/freeipa/freeipa/stargazers)
+### 17. [FreeIPA](https://github.com/freeipa/freeipa) [![GitHub_Stars](https://img.shields.io/github/stars/freeipa/freeipa?style=social&color=white)](https://github.com/freeipa/freeipa/stargazers)
 * **GitHub Repository:** [`freeipa/freeipa`](https://github.com/freeipa/freeipa)  
 * **Tech Stack:** Python / C | **License:** GPL-3.0  
 * **Overview:** The central identity, policy, and audit solution for networked Linux and Unix systems. Combines 389 Directory Server (LDAP), MIT Kerberos, Dogtag Certificate System, NTP, and DNS into a unified management domain.  
 * **Key Features:** Centralized Linux host authentication, Host-Based Access Control (HBAC), sudo rule management, Active Directory cross-forest trust, automated TLS certificate authority, and web UI.  
 * **Best For:** System administrators operating on-premise Linux environments needing complete domain controller services, Kerberos authentication, and Active Directory federation.
 
-### 18. [WSO2 Identity Server](https://github.com/wso2/product-is) [![GitHub Stars](https://img.shields.io/github/stars/wso2/product-is?style=social&color=white)](https://github.com/wso2/product-is/stargazers)
+### 18. [WSO2 Identity Server](https://github.com/wso2/product-is) [![GitHub_Stars](https://img.shields.io/github/stars/wso2/product-is?style=social&color=white)](https://github.com/wso2/product-is/stargazers)
 * **GitHub Repository:** [`wso2/product-is`](https://github.com/wso2/product-is)  
 * **Tech Stack:** Java | **License:** Apache-2.0  
 * **Overview:** A Digital Public Good-recognized open-source enterprise IAM platform deployed worldwide in finance, government, healthcare, and telecommunications.  
 * **Key Features:** Comprehensive support for OAuth 2.0, OIDC, SAML 2.0, SCIM 2.0, FIDO2/WebAuthn, adaptive risk-based authentication, user account governance, and multi-tenant identity federation.  
 * **Best For:** Highly regulated industries requiring an established enterprise-grade, standards-compliant IAM platform with multi-protocol legacy and modern bridge capabilities.
 
-### 19. [Evolveum midPoint](https://github.com/Evolveum/midpoint) [![GitHub Stars](https://img.shields.io/github/stars/Evolveum/midpoint?style=social&color=white)](https://github.com/Evolveum/midpoint/stargazers)
+### 19. [Evolveum midPoint](https://github.com/Evolveum/midpoint) [![GitHub_Stars](https://img.shields.io/github/stars/Evolveum/midpoint?style=social&color=white)](https://github.com/Evolveum/midpoint/stargazers)
 * **GitHub Repository:** [`Evolveum/midpoint`](https://github.com/Evolveum/midpoint)  
 * **Tech Stack:** Java | **License:** Open Source (Subscription Model)  
 * **Overview:** The leading open-source Identity Governance and Administration (IGA) and Identity Management (IDM) platform.  
 * **Key Features:** Automated joiner-mover-leaver lifecycle provisioning, policy-based approval workflows, Segregation of Duties (SoD) checks, recurring access certification campaigns, and comprehensive connector catalog (ConnId).  
 * **Best For:** Large enterprises, universities, and healthcare systems needing an open-source alternative to SailPoint or Saviynt without per-identity software licensing costs.
 
-### 20. [Apache Syncope](https://github.com/apache/syncope) [![GitHub Stars](https://img.shields.io/github/stars/apache/syncope?style=social&color=white)](https://github.com/apache/syncope)
+### 20. [Apache Syncope](https://github.com/apache/syncope) [![GitHub_Stars](https://img.shields.io/github/stars/apache/syncope?style=social&color=white)](https://github.com/apache/syncope)
 * **GitHub Repository:** [`apache/syncope`](https://github.com/apache/syncope)  
 * **Tech Stack:** Java | **License:** Apache-2.0  
 * **Overview:** An open-source digital identity management, access governance, and provisioning engine governed under the Apache Software Foundation.  
 * **Key Features:** Automated user, group, and role provisioning; delegated administration; SCIM 2.0 interface; audit logging and compliance reporting; and connector framework for active directory, databases, and enterprise apps.  
 * **Best For:** Enterprise Java environments requiring a community-governed, extensible open-source Identity Governance and Administration framework.
 
-### 21. [Nubus](https://github.com/univention/nubus) [![GitHub Stars](https://img.shields.io/github/stars/univention/nubus?style=social&color=white)](https://github.com/univention/nubus/stargazers)
+### 21. [Nubus](https://github.com/univention/nubus) [![GitHub_Stars](https://img.shields.io/github/stars/univention/nubus?style=social&color=white)](https://github.com/univention/nubus/stargazers)
 * **GitHub Repository:** [`univention/nubus`](https://github.com/univention/nubus)  
 * **Tech Stack:** Python / Go | **License:** AGPL-3.0-or-later  
 * **Overview:** Developed by Univention as the identity core for sovereign cloud workplaces (such as the German sovereign openDesk suite). Delivers centralized user identity, role, and permission governance.  
 * **Key Features:** Web management portal, integrated Single Sign-On (SAML/OIDC), self-service password reset, Kubernetes deployment readiness, and enterprise compliance audit logs.  
 * **Best For:** European public sector organizations, educational institutions, and enterprises prioritizing digital sovereignty and open standards.
 
-### 22. [Hanzo IAM](https://github.com/hanzoai/iam) [![GitHub Stars](https://img.shields.io/github/stars/hanzoai/iam?style=social&color=white)](https://github.com/hanzoai/iam/stargazers)
+### 22. [Hanzo IAM](https://github.com/hanzoai/iam) [![GitHub_Stars](https://img.shields.io/github/stars/hanzoai/iam?style=social&color=white)](https://github.com/hanzoai/iam/stargazers)
 * **GitHub Repository:** [`hanzoai/iam`](https://github.com/hanzoai/iam)  
 * **Tech Stack:** Go | **License:** Apache-2.0  
 * **Overview:** An AI-first IAM gateway and auth server engineered with Model Context Protocol (MCP) server support, WebAuthn, OAuth 2.1, and SCIM automated user provisioning.  
@@ -288,7 +288,7 @@ Contributions, suggestions, and corrections are warmly welcomed! To contribute a
    ```
 3. 📝 **Add your tool** adhering to the existing format:
    - Tool name and direct website / GitHub link
-   - GitHub stars social badge linking directly to stargazers: `[![GitHub Stars](https://img.shields.io/github/stars/<owner>/<repo>?style=social&color=white)](https://github.com/<owner>/<repo>/stargazers)`
+   - GitHub_Stars social badge linking directly to stargazers: `[![GitHub_Stars](https://img.shields.io/github/stars/<owner>/<repo>?style=social&color=white)](https://github.com/<owner>/<repo>/stargazers)`
    - Tech stack & license details
    - Clear starting tier pricing and specific free trial / free tier limits
 4. 🚀 **Submit a Pull Request** with a concise description of your changes.
